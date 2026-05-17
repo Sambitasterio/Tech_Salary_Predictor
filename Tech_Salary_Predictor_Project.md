@@ -10,8 +10,8 @@
 | Phase | Status |
 |-------|--------|
 | 1. Setup & Data Acquisition | ✅ Complete |
-| 2. Exploratory Data Analysis (EDA) | 🔄 In Progress |
-| 3. Data Cleaning & Preprocessing | ⬜ Not Started |
+| 2. Exploratory Data Analysis (EDA) | ✅ Complete |
+| 3. Data Cleaning & Preprocessing | 🔄 In Progress |
 | 4. Feature Engineering | ⬜ Not Started |
 | 5. Baseline Modeling | ⬜ Not Started |
 | 6. Advanced Modeling | ⬜ Not Started |
