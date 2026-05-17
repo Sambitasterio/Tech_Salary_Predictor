@@ -20,4 +20,3 @@ Thumbs.db
 # Model artifacts
 models/*.pkl
 models/*.joblib
-models/*.json
