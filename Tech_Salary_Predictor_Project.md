@@ -12,8 +12,8 @@
 | 1. Setup & Data Acquisition | ✅ Complete |
 | 2. Exploratory Data Analysis (EDA) | ✅ Complete |
 | 3. Data Cleaning & Preprocessing | ✅ Complete |
-| 4. Feature Engineering | 🔄 In Progress |
-| 5. Baseline Modeling | ⬜ Not Started |
+| 4. Feature Engineering | ✅ Complete |
+| 5. Baseline Modeling | 🔄 In Progress |
 | 6. Advanced Modeling | ⬜ Not Started |
 | 7. Model Evaluation | ⬜ Not Started |
 | 8. SHAP Interpretability | ⬜ Not Started |
