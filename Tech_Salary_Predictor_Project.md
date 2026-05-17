@@ -10,7 +10,7 @@
 | Phase | Status |
 |-------|--------|
 | 1. Setup & Data Acquisition | ✅ Complete |
-| 2. Exploratory Data Analysis (EDA) | ⬜ Not Started |
+| 2. Exploratory Data Analysis (EDA) | 🔄 In Progress |
 | 3. Data Cleaning & Preprocessing | ⬜ Not Started |
 | 4. Feature Engineering | ⬜ Not Started |
 | 5. Baseline Modeling | ⬜ Not Started |
@@ -26,7 +26,7 @@
 - [x] Create project folder structure (`/data`, `/notebooks`, `/models`, `/reports`)
 - [x] Download Stack Overflow Developer Survey 2025 (`results.txt`, `schema.txt`, `survey.pdf`)
 - [x] Set up virtual environment and install dependencies (`pandas`, `numpy`, `scikit-learn`, `xgboost`, `shap`, `matplotlib`, `seaborn`)
-- [ ] Load dataset and do a first-pass inspection (`df.head()`, `df.info()`, `df.describe()`)
+- [x] Load dataset and do a first-pass inspection (`df.head()`, `df.info()`, `df.describe()`)
 
 > **2025 column name changes:** delimiter is `;` not `|`; `YearsCodePro` → `WorkExp`; `FrameworkHaveWorkedWith` → `WebframeHaveWorkedWith`; files are `.txt` not `.csv`
 
