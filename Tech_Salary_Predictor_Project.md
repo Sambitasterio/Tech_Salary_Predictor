@@ -16,8 +16,8 @@
 | 5. Baseline Modeling | ✅ Complete |
 | 6. Advanced Modeling | ✅ Complete |
 | 7. Model Evaluation | ✅ Complete |
-| 8. SHAP Interpretability | 🔄 In Progress |
-| 9. Insight Narrative | ⬜ Not Started |
+| 8. SHAP Interpretability | ✅ Complete |
+| 9. Insight Narrative | 🔄 In Progress |
 | 10. Final Presentation / Portfolio Polish | ⬜ Not Started |
 
 ---
