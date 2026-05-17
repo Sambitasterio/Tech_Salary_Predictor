@@ -15,8 +15,8 @@
 | 4. Feature Engineering | ✅ Complete |
 | 5. Baseline Modeling | ✅ Complete |
 | 6. Advanced Modeling | ✅ Complete |
-| 7. Model Evaluation | 🔄 In Progress |
-| 8. SHAP Interpretability | ⬜ Not Started |
+| 7. Model Evaluation | ✅ Complete |
+| 8. SHAP Interpretability | 🔄 In Progress |
 | 9. Insight Narrative | ⬜ Not Started |
 | 10. Final Presentation / Portfolio Polish | ⬜ Not Started |
 
