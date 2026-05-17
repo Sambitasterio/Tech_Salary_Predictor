@@ -17,8 +17,8 @@
 | 6. Advanced Modeling | ✅ Complete |
 | 7. Model Evaluation | ✅ Complete |
 | 8. SHAP Interpretability | ✅ Complete |
-| 9. Insight Narrative | 🔄 In Progress |
-| 10. Final Presentation / Portfolio Polish | ⬜ Not Started |
+| 9. Insight Narrative | ✅ Complete |
+| 10. Final Presentation / Portfolio Polish | 🔄 In Progress |
 
 ---
 
